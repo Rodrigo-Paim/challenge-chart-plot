@@ -1,4 +1,4 @@
-# User Model
+# User Mode
 
 ```
 yarn install
